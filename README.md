@@ -1,0 +1,1 @@
+# mhlw-update-checker
